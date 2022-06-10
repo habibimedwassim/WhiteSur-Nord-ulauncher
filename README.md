@@ -9,5 +9,5 @@
 ```sh
 mkdir -p ~/.config/ulauncher/user-themes
 git clone https://github.com/habibimedwassim/WhiteSur-Nord-ulauncher.git \
-  ~/.config/ulauncher/user-themes/WhiteSur-Dark-ulauncher
+  ~/.config/ulauncher/user-themes/WhiteSur-Nord-ulauncher
 ```
